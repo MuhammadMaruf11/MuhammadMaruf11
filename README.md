@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm with Javascript**
 
-- 👨‍💻 All of my projects are available at [http://maruf.rf.gd/](http://maruf.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://muhammadmaruf.netlify.app/](https://muhammadmaruf.netlify.app/)
 
 - 💬 Ask me about **react and next**
 
